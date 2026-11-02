@@ -1,0 +1,10 @@
+# Окружение Python
+venv/
+.venv/
+env/
+
+# Кэш Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
